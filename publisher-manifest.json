@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "431599e4bf5f23e5a6269f58",
+  "owner": "neejxxpus",
+  "repo": "page-484e485411c438cec26c154f",
+  "title": "按摩院(Amy)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "484e485411c438cec26c154f",
+      "a": "按摩院(Amy)",
+      "b": "2027官方最新地址导航",
+      "entity": "按摩院(Amy)",
+      "brand": "按摩院(Amy)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f43e80a4ffaba056073ed8846e3284b93ce6b1b7a0e64327459b050e6ab20455",
+      "content": {
+        "primary_entity": "按摩院(Amy)",
+        "keyword1": "按摩院(Amy)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备数量、流量规模与订阅周期对比三档方案。基础版适合单人轻度使用，旗舰版覆盖多设备与流媒体游戏需求，团队版面向小型团体与高带宽场景。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HERO_INTRO": "按摩院(Amy)提供基础版、旗舰版与团队版三档加速方案，按在线设备数、月流量与线路类型区分。对照设备数量、常用场景和预算即可选定合适档位。",
+          "AI_VISUAL_TITLE": "三档加速方案任选",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更省月费",
+          "AI_FEATURES_TITLE": "套餐与适配要点",
+          "AI_FEATURES_INTRO": "从设备规模与流量需求出发选择版本。",
+          "AI_FEATURE_TITLE_1": "按设备选版本",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台同时在线，按常用设备数量直接对应。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "月流量从100GB到1000GB分档，流媒体与游戏较多时可考虑旗舰版及以上。",
+          "AI_FEATURE_TITLE_3": "年付更省月费",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150、旗舰版¥350、团队版¥850，适合长期订阅用户。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在设备数、流量与线路各有侧重，可对比后选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选定套餐、确认设备适配、导入订阅信息，即可完成配置。",
+          "AI_STEP_TITLE_1": "选定服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，从基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，再决定订阅档位。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "对照设备数与流量需求，挑一档合适的套餐开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备，适合轻量浏览；旗舰版每月300GB、支持5台设备，并含IPLC专线优化，适合流媒体与游戏场景。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元，旗舰版350元，团队版850元，均相当于支付十个月费用，比按月支付节省两个月。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址后更新节点列表，即可在客户端内选择线路连接。",
+          "AI_FAQ_QUESTION_4": "可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_4": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出限制时，可关闭不用的设备或升级套餐。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些额外功能？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量、20台设备在线、VIP高带宽节点、企业定制路由以及专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "scpwq.com",
+    "host": "scpwq.com"
+  },
+  "file_hashes": {
+    "index.html": "9c4e15af57332dd0adbeb22a09efb5cb2fb74968aa0015d9c3b0089c954c78f6",
+    "sitemap.xml": "a3a6e75367f7e5c397a8349325b754354c025c7da79c12e258bf9bb4c7485617",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68abd4ffe081f027d149c93a126ceaf6fe3ea15b957c362b20ad6c894c99e542",
+    "robots.txt": "d986bf22a7ec922aede577e8fea519d4b7e8d7f712365ef3c57473276bd7759e",
+    "49c2a596c59d5115c2ec9da151095cfe.txt": "11270601e11a9c17b0cd0a76da845e963a3d3e97373ea45091ed14edb0d0cc97"
+  },
+  "revision": "1fed72b7dde09369e00428b9071bb4a9f2af8f92bd9f061cdb59332158c95066"
+}
